@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="vendor"/>
+	<buildpathentry kind="src" path="templates"/>
+	<buildpathentry kind="src" path="appinfo"/>
+	<buildpathentry kind="src" path="lib/AppInfo"/>
+	<buildpathentry kind="src" path="node_modules/stylelint/node_modules/flatted/php"/>
+	<buildpathentry kind="src" path="lib/Db"/>
+	<buildpathentry kind="src" path="lib/Controller"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+	<buildpathentry kind="src" path="lib/Service"/>
+	<buildpathentry kind="src" path="tests"/>
+	<buildpathentry kind="lib" path="node_modules/linkifyjs/dist/linkifyjs.zip"/>
+	<buildpathentry kind="src" path="lib/Migration"/>
+</buildpath>

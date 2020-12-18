@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <id>myshares</id>
+    <name>My Shares</name>
+    <summary>App for managing shares</summary>
+    <description><![CDATA[Lists your shares with possibility to Edit/Delete(unshare) ]]></description>
+    <version>18.0.0</version>
+    <licence>agpl</licence>
+    <author mail="cupuyc@gmail.com" >Nikolay Terziev</author>
+    <namespace>MyShares</namespace>
+    <category>tools</category>
+	 <bugs></bugs>
+    <dependencies>
+        <nextcloud min-version="17" max-version="20"/>
+    </dependencies>
+    <navigations>
+        <navigation>
+            <name>My Shares</name>
+            <route>myshares.page.index</route>
+        </navigation>
+    </navigations>
+</info>
